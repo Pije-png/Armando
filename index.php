@@ -8,5 +8,6 @@
 <body>
     Main index
     Form BRANCH1
+    Form BRANCH2
 </body>
 </html>
